@@ -8,7 +8,7 @@ This project will enable you to look up the actual email address of any person. 
 
 You can use this to find emails for free, or use it as the base to create your own email finding app.
 
-Demo: [https://email-finder.herokuapp.com/](https://email-finder.herokuapp.com/)
+Demo: [https://mail--finder.herokuapp.com/](https://mail--finder.herokuapp.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
